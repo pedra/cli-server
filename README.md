@@ -1,6 +1,6 @@
 cli-server
 ==========
-**Esperiências com o servidor embutido do PHP.**
+**Experiências com o servidor embutido do PHP.**
 
 Veja esse vídeo http://youtu.be/0AC99SBbdgM
 
@@ -11,12 +11,12 @@ Em seguida criei um atalho para a área de trabalho do Windows com o seguinte co
     
 Depois é só clicar no atalho (como no video).
 
-**Lembre-se que esse script de experiência só funcionará no Windows**
+**Lembre-se que esse script só funcionará no Windows**
 
 :)
 ==
 
-A intenção aqui é construir aplicações de **desktop** rodando no server imbutido do **PHP**.
+A intenção aqui é construir aplicações de **desktop** rodando no server embutido do **PHP**.
 
 Se tiver alguma **idéia** faça um **fork** e depois um **pull request** que será publicado.
 
@@ -25,7 +25,7 @@ Se tiver alguma **idéia** faça um **fork** e depois um **pull request** que se
 **Compilando e rodando o projeto**
 
 
-A aplicação em si é composta somente pelos arquivos 'index.php' e as pastas 'php', 'style' e 'scritp'. Depois de testado em um servidor comum ou no próprio PHP builtin server você pode compilar em Phar usando (por exemplo) este compilador https://github.com/pedra/makephar .
+A aplicação em si é composta somente pelos arquivos 'index.php' e as pastas 'php', 'style' e 'script'. Depois de testado em um servidor comum ou no próprio PHP builtin server você pode compilar em Phar usando (por exemplo) este compilador https://github.com/pedra/makephar .
 
 Para facilitar os teste crie um host próprio adicionando a seguinte linha no final do arquivo HOSTS do windows. Geralmente este arquivo fica em C:\Windows\System32\drivers\etc\hosts.
 
