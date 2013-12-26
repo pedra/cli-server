@@ -16,8 +16,7 @@ Depois é só clicar no atalho (como no video).
 :)
 ==
 
-A intenção aqui é construir aplicações de **desktop** rodando no server embutido do **PHP**.
-
+A intenção aqui é construir aplicações de **desktop** rodando no servidor embutido do **PHP**.
 Se tiver alguma **idéia** faça um **fork** e depois um **pull request** que será publicado.
 
 :P
