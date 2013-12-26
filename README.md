@@ -4,7 +4,7 @@ cli-server
 
 Veja esse vídeo http://youtu.be/0AC99SBbdgM
 
-No exemplo do video eu copiei o arquivo já compilado "power.phar" (somente este arquivo é usado) para uma pasta.
+No exemplo do video eu copiei o arquivo já compilado "power.phar" para uma pasta (somente este arquivo é usado).
 Em seguida criei um atalho para a área de trabalho do Windows com o seguinte comando:
 
     php power.phar
